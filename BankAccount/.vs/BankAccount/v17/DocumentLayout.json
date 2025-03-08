@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Acunmedya\\NET React \u00D6dev 3\\BankAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2885F1F0-A8B7-4553-8F6A-FE5767C3A5E6}|BankAccount\\BankAccount.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\acunmedya\\net react \u00F6dev 3\\bankaccount\\bankaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2885F1F0-A8B7-4553-8F6A-FE5767C3A5E6}|BankAccount\\BankAccount.csproj|solutionrelative:bankaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2885F1F0-A8B7-4553-8F6A-FE5767C3A5E6}|BankAccount\\BankAccount.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\acunmedya\\net react \u00F6dev 3\\bankaccount\\bankaccount\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2885F1F0-A8B7-4553-8F6A-FE5767C3A5E6}|BankAccount\\BankAccount.csproj|solutionrelative:bankaccount\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2885F1F0-A8B7-4553-8F6A-FE5767C3A5E6}|BankAccount\\BankAccount.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\acunmedya\\net react \u00F6dev 3\\bankaccount\\bankaccount\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2885F1F0-A8B7-4553-8F6A-FE5767C3A5E6}|BankAccount\\BankAccount.csproj|solutionrelative:bankaccount\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2885F1F0-A8B7-4553-8F6A-FE5767C3A5E6}|BankAccount\\BankAccount.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\acunmedya\\net react \u00F6dev 3\\bankaccount\\bankaccount\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2885F1F0-A8B7-4553-8F6A-FE5767C3A5E6}|BankAccount\\BankAccount.csproj|solutionrelative:bankaccount\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Acunmedya\\NET React \u00D6dev 3\\BankAccount\\BankAccount\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount\\CheckingAccount.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Acunmedya\\NET React \u00D6dev 3\\BankAccount\\BankAccount\\CheckingAccount.cs",
+              "RelativeToolTip": "BankAccount\\CheckingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:01:13.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Acunmedya\\NET React \u00D6dev 3\\BankAccount\\BankAccount\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Acunmedya\\NET React \u00D6dev 3\\BankAccount\\BankAccount\\SavingsAccount.cs",
+              "RelativeToolTip": "BankAccount\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:00:43.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Acunmedya\\NET React \u00D6dev 3\\BankAccount\\BankAccount\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Acunmedya\\NET React \u00D6dev 3\\BankAccount\\BankAccount\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:00:20.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Acunmedya\\NET React \u00D6dev 3\\BankAccount\\BankAccount\\Program.cs",
+              "RelativeDocumentMoniker": "BankAccount\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Acunmedya\\NET React \u00D6dev 3\\BankAccount\\BankAccount\\Program.cs",
+              "RelativeToolTip": "BankAccount\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:59:58.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
