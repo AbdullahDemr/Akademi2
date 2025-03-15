@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Akademi2\\Net React \u00D6dev - Ocak 2\\\u0130kiSay\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2386BB1E-FF26-446F-A0D8-53F38BCAE2B7}|\u0130kiSay\u0131\\\u0130kiSay\u0131.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\akademi2\\net react \u00F6dev - ocak 2\\\u0130kisay\u0131\\\u0130kisay\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2386BB1E-FF26-446F-A0D8-53F38BCAE2B7}|\u0130kiSay\u0131\\\u0130kiSay\u0131.csproj|solutionrelative:\u0130kisay\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Akademi2\\Net React \u00D6dev - Ocak 2\\\u0130kiSay\u0131\\\u0130kiSay\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "\u0130kiSay\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Akademi2\\Net React \u00D6dev - Ocak 2\\\u0130kiSay\u0131\\\u0130kiSay\u0131\\Program.cs",
+              "RelativeToolTip": "\u0130kiSay\u0131\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:35:45.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

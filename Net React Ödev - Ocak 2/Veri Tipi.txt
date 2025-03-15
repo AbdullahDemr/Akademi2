@@ -1,0 +1,13 @@
+1️-) C#’ta Kullanılan Temel Veri Tipleri:
+C# dilinde yaygın olarak kullanılan bazı temel veri tipleri şunlardır:
+
+int: Tam sayıları temsil eder. Örneğin: int x = 5;
+double: Ondalıklı sayıları (küsuratlı sayılar) temsil eder. Örneğin: double y = 5.2;
+float: double'a benzer ancak daha düşük hassasiyetlidir. Örneğin: float z = 5.2f;
+char: Tek bir karakteri temsil eder. Örneğin: char harf = 'A';
+string: Karakter dizilerini temsil eder (yani metin). Örneğin: string name = "Mehmet";
+bool: Mantıksal değerleri temsil eder. Örneğin: bool isTrue = true;
+decimal: Yüksek hassasiyetli ondalıklı sayılar için kullanılır. Örneğin: decimal price = 10.5m;
+byte: 0-255 arasındaki tam sayıları temsil eder. Örneğin: byte b = 255;
+short: Küçük tam sayıları temsil eder. Örneğin: short s = 1000;
+long: Daha büyük tam sayıları temsil eder. Örneğin: long l = 10000000000;

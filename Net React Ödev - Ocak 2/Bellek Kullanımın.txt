@@ -1,0 +1,17 @@
+2️-) Aşağıdaki Değişkenlerin Bellek Kullanımını Karşılaştırın:
+C# dilinde farklı veri tiplerinin bellek kullanımları farklıdır. İşte belirttiğiniz değişkenlerin bellek kullanımı:
+
+int x = 5;
+int veri tipi 4 byte (32 bit) bellek kullanır.
+
+double y = 5.2;
+double veri tipi 8 byte (64 bit) bellek kullanır.
+
+string name = "Mehmet";
+string veri tipi, her bir karakter için 2 byte (UTF-16 kodlaması kullanır) ve string'in uzunluğuna bağlı olarak dinamik olarak bellek kullanır. Örneğin, "Mehmet" string'i 7 karakter olduğu için 7 * 2 = 14 byte'lık bir bellek alanı kullanır. Ancak string'ler daha karmaşık oldukları için, bu tür veriler heap bellekte saklanır ve gereksiz bellek tahsisi yapılabilir.
+
+Özetle Bellek Kullanımı:
+
+int: 4 byte
+double: 8 byte
+string: 14 byte (Metnin uzunluğuna bağlı olarak değişir)
