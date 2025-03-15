@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Akademi2\\Net React \u00D6dev Mart-1\\Net React \u00D6dev Mart-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Akademi2\\Net React \u00D6dev Mart-1\\Net React \u00D6dev Mart-1\\DataAccess\\Migrations\\20250315113148_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20250315113148_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBF867B-9F83-4A02-BBA7-3E537168F349}|DataAccess\\DataAccess.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\akademi2\\net react \u00F6dev mart-1\\net react \u00F6dev mart-1\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBF867B-9F83-4A02-BBA7-3E537168F349}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA314BDF-8466-49A7-B5F2-7AB86ADD981F}|Core\\Core.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\akademi2\\net react \u00F6dev mart-1\\net react \u00F6dev mart-1\\core\\coremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA314BDF-8466-49A7-B5F2-7AB86ADD981F}|Core\\Core.csproj|solutionrelative:core\\coremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AE5A64-CC2A-4DC1-98D8-8766A677AD2C}|Net React \u00D6dev Mart-1\\Net React \u00D6dev Mart-1.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\akademi2\\net react \u00F6dev mart-1\\net react \u00F6dev mart-1\\net react \u00F6dev mart-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8AE5A64-CC2A-4DC1-98D8-8766A677AD2C}|Net React \u00D6dev Mart-1\\Net React \u00D6dev Mart-1.csproj|solutionrelative:net react \u00F6dev mart-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250315113148_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Akademi2\\Net React \u00D6dev Mart-1\\Net React \u00D6dev Mart-1\\DataAccess\\Migrations\\20250315113148_mig1.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250315113148_mig1.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Akademi2\\Net React \u00D6dev Mart-1\\Net React \u00D6dev Mart-1\\DataAccess\\Migrations\\20250315113148_mig1.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20250315113148_mig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:31:49.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Akademi2\\Net React \u00D6dev Mart-1\\Net React \u00D6dev Mart-1\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Akademi2\\Net React \u00D6dev Mart-1\\Net React \u00D6dev Mart-1\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccess\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:31:27.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Akademi2\\Net React \u00D6dev Mart-1\\Net React \u00D6dev Mart-1\\Net React \u00D6dev Mart-1\\Program.cs",
+              "RelativeDocumentMoniker": "Net React \u00D6dev Mart-1\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Akademi2\\Net React \u00D6dev Mart-1\\Net React \u00D6dev Mart-1\\Net React \u00D6dev Mart-1\\Program.cs",
+              "RelativeToolTip": "Net React \u00D6dev Mart-1\\Program.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAgwJMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:25:19.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoreModule.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Akademi2\\Net React \u00D6dev Mart-1\\Net React \u00D6dev Mart-1\\Core\\CoreModule.cs",
+              "RelativeDocumentMoniker": "Core\\CoreModule.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\Akademi2\\Net React \u00D6dev Mart-1\\Net React \u00D6dev Mart-1\\Core\\CoreModule.cs",
+              "RelativeToolTip": "Core\\CoreModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:09:03.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
