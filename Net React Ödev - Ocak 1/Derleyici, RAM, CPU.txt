@@ -1,0 +1,13 @@
+Bir programın çalışabilmesi için temel bileşenler aşağıdaki gibidir:
+
+Derleyici (Compiler): Kaynak kodunu (örneğin, C# kodunu) makine diline veya ara dil (Intermediate Language, IL) olarak çevirmeye yarayan yazılımdır. C# derleyicisi, yazdığınız C# kodunu CLR (Common Language Runtime) tarafından çalıştırılabilecek bir formata dönüştürür.
+
+RAM (Random Access Memory): Programların çalışması için geçici bellek alanıdır. Program, çalışmaya başladığında RAM'e yüklenir ve burada işlemler yapılır. Program kapatıldığında RAM'deki veriler kaybolur.
+
+CPU (Central Processing Unit): Bilgisayarın beyin birimidir. Programın çalışması sırasında CPU, hesaplamaları ve işlemleri yapar.
+
+Sabit Disk veya SSD: Programların ve verilerin kalıcı olarak saklandığı depolama birimidir. Derlenmiş dosyalar (exe, dll) burada bulunur.
+
+Çalışma Zamanı Ortamı (Runtime Environment): C# gibi dillerde, programların çalışabilmesi için runtime ortamı gerekir. Bu, .NET Framework veya .NET Core gibi çalışma zamanlarını içerir. Bu ortam, kodun doğru çalışabilmesi için gerekli kütüphaneleri ve bileşenleri sağlar.
+
+Giriş/Çıktı (I/O) Cihazları: Kullanıcıdan veri alabilmek ve sonuçları gösterebilmek için kullanılan donanım bileşenleridir. Örneğin, klavye, fare, monitör, ağ bağlantıları gibi.

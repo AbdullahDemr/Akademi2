@@ -1,0 +1,10 @@
+1️-) C# Programlama Dili Nedir? Hangi Alanlarda Kullanılır?
+C# (C-sharp), Microsoft tarafından geliştirilmiş, modern ve nesne yönelimli bir programlama dilidir. C# dili, .NET Framework veya .NET Core (şimdi .NET olarak bilinir) üzerinde çalışır. C# dilinin özellikleri, güvenli, güçlü ve verimli bir şekilde yazılım geliştirmeye olanak tanır. C# dilinin başlıca kullanım alanları şunlardır:
+
+Masaüstü Uygulamaları: Windows Forms veya WPF (Windows Presentation Foundation) kullanarak masaüstü uygulamaları geliştirmek.
+Web Uygulamaları: ASP.NET ile dinamik web uygulamaları, API'ler ve web servisleri geliştirmek.
+Mobil Uygulamalar: Xamarin kullanarak Android ve iOS platformları için mobil uygulamalar geliştirmek.
+Oyun Geliştirme: Unity oyun motorunda oyun geliştirmek.
+Veritabanı Uygulamaları: SQL Server gibi veritabanlarıyla etkileşimde bulunan uygulamalar yazmak.
+Bulut Tabanlı Uygulamalar: Azure hizmetlerini kullanarak bulut tabanlı çözümler geliştirmek.
+C# ayrıca, çoklu platform desteği (Windows, Linux, macOS) sağlamak için .NET Core ile de kullanılabilir.
